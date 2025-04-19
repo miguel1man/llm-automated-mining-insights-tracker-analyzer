@@ -1,2 +1,9 @@
-supabase
+fastapi
+fastapi-cli
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+psycopg2-binary
+pydantic
+pydantic-settings
 python-dotenv
